@@ -1,11 +1,13 @@
 <h1 align="center"> Minha lista de afazeres </h1>
 
-<h2> Integrantes do grupo 40
+<h2> Integrantes do grupo 32:
+GABRIEL DE SOUZA BORGES,
 KEVIN DE GASPERI,
 LUIS FELIPE DE CASTRO,
 LUYGI MATHEUS RODRIGUES CARVALHO,
 OTAVIO SENA SANTOS,
-THIAGO ROBERTO LOPES </h2
+THIAGO ROBERTO LOPES
+</h2
 
 
 <h2> Instalação do projeto: </h2>
